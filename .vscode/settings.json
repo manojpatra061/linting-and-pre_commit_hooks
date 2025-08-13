@@ -1,0 +1,12 @@
+{
+  // // Enable ESLint extension
+  // "eslint.enable": true,
+  // // Auto fix ESLint issues on save
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": "explicit"
+  // },
+  // // Auto format files on save
+  // "editor.formatOnSave": true,
+  // // Use Prettier as the default formatter for formatting
+  // "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
