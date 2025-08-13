@@ -1,9 +1,9 @@
-# Check linting issues
+## Check linting issues
 
-npm run lint
-npm run prettier:check
+    npm run lint
+    npm run prettier:check
 
-# Fix linting issues
+## Fix linting issues
 
-npm run lint:fix
-npm run prettier:write
+    npm run lint:fix
+    npm run prettier:write
